@@ -1,0 +1,6 @@
+{
+  "name": "Mead Brewing Companion",
+  "description": "An elegant, full-featured mead brewing companion with gravity calculators, nutrient schedules, fermentation logs, and AI-powered recipe generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
